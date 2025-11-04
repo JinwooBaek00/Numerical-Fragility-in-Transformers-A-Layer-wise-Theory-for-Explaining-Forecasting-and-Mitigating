@@ -10,5 +10,5 @@ Layer-wise theory and diagnostics to explain, forecast, and mitigate forward-pas
 - **Early-warning signals**: κ_softmax peaks anticipate instability for safe scheduling of precision/ε adjustments
 - **Minimal mitigation**: conservative **LayerNorm-ε bump** policy; architecture-agnostic and low-overhead
 
-Runs as a single notebook. No setup required on Colab; for local runs, see the first cell (auto-install).  
+Runs as a single notebook.  
 Tested on Python 3.11.
