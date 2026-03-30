@@ -176,18 +176,11 @@ If you use this code, please cite:
 
 ## License
 
-Please add a license file before making the repository public. A simple and common choice for research code is **MIT**, while **Apache-2.0** is a good option if you want an explicit patent grant.
+This repository is released under the **MIT License**.
 
-The license file should live at the repository root and be named exactly:
+See:
 
-```text
-LICENSE
-```
-
-If you want, I can also draft the full `LICENSE` file for either:
-
-- `MIT`
-- `Apache-2.0`
+- [LICENSE](LICENSE)
 
 ## Contact
 
